@@ -6,7 +6,8 @@ restocking and marketing investment next quarter, and are there any
 stores or products at risk of lost sales due to inventory issues?
 
 ## Data Source
-Maven Toys dataset from [Maven Analytics]([https://mavenanalytics.io](https://mavenanalytics.io/data-playground/mexico-toy-sales)) — 
+## Data Source
+Maven Toys dataset from [Maven Analytics](https://mavenanalytics.io/data-playground/mexico-toy-sales)
 includes sales, products, stores, inventory, and calendar tables.
 
 ## Tools Used
@@ -40,7 +41,7 @@ Power BI (Power Query, Data Modeling, DAX)
    marketing spend
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard Mavon Toys.png)
+![Dashboard Screenshot](dashboard-maven-toys.png)
 
 *Note: Interactive .pbix file is available in this repo — open in 
 Power BI Desktop to explore filters and charts.*
