@@ -6,7 +6,6 @@ restocking and marketing investment next quarter, and are there any
 stores or products at risk of lost sales due to inventory issues?
 
 ## Data Source
-## Data Source
 Maven Toys dataset from [Maven Analytics](https://mavenanalytics.io/data-playground/mexico-toy-sales)
 includes sales, products, stores, inventory, and calendar tables.
 
