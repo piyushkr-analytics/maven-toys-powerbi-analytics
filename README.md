@@ -17,7 +17,7 @@ Power BI (Power Query, Data Modeling, DAX)
 - Cleaned and modeled data into a star schema (sales as fact table, 
   linked to products, stores, and calendar dimensions)
 - Built DAX measures for revenue, profit margin, and inventory turnover
-- Designed a single-page interactive dashboard with slicers for 
+- Designed a single-page interactive dashboard for 
   date, store, and category
 
 ## Key Findings
